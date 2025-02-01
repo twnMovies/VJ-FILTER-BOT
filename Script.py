@@ -244,10 +244,13 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """📕 Nᴀᴍᴇ ➠ <b>{file_name}</b>
 
-<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
+🔗 Sɪᴢᴇ ➠ <b>{file_size}</b>
+ Lᴀɴɢᴜᴀɢᴇ ➠ <b>{file_language}</b>
 
+<b>» <a href="https://t.me/TWN_REQUEST">Mᴏᴠɪᴇs Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ</a> «</b>
+<b>» <a href="https://t.me/twn_movies">Aʟʟ Cʜᴀɴɴᴇʟ Lɪɴᴋs</a> «</b>"""
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
 
